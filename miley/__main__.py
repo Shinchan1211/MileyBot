@@ -44,10 +44,10 @@ Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
- ★  - /start: 𝓢𝓽𝓪𝓻𝓽 𝓽𝓱𝓮 𝓫𝓸𝓽
- ★  - /help: PM's you this message.
- ★  - /help <module name>: PM's you info about that module.
- ★  - /source: Information about my source.
+ ★  - /start: 𝓢𝓽𝓪𝓻𝓽  𝓽𝓱𝓮  𝓫𝓸𝓽.
+ ★  - /help: 𝓟𝓜'𝓼  𝔂𝓸𝓾  𝓽𝓱𝓲𝓼  𝓶𝓮𝓼𝓼𝓪𝓰𝓮.
+ ★  - /help <module name>: 𝓟𝓜'𝓼  𝔂𝓸𝓾  𝓲𝓷𝓯𝓸  𝓪𝓫𝓸𝓾𝓽  𝓽𝓱𝓪𝓽  𝓶𝓸𝓭𝓾𝓵𝓮.
+ ★  - /source: 𝓖𝓲𝓿𝓮𝓼  𝓲𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷  𝓪𝓫𝓸𝓾𝓽  𝓶𝔂 𝓼 𝓸𝓾𝓻𝓬𝓮.
  ★  - /settings:
    ✪ - in PM: will send you your settings for all supported modules.
   ✪  - in a group: will redirect you to pm, with all that chat's settings.
