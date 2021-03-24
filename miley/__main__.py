@@ -40,9 +40,8 @@ _I'm maintained by_ [{}](tg://user?id={})
 
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
-the things I can help you with.
+нєу тнєяє! му иαмє ιѕ *{}*.
+ι'м α мσ∂υℓαя gяσυρ мαиαgємєит вσт ωιтн α fєω fυи єχтяαѕ! нανє α ℓσσк αт тнє fσℓℓσωιиg fσя αи ι∂єα σf ѕσмє σf \ тнє тнιиgѕ ι ¢αи нєℓρ уσυ ωιтн.
 *Main* commands available:
  ★  - /start: 𝓢𝓽𝓪𝓻𝓽  𝓽𝓱𝓮  𝓫𝓸𝓽.
  ★  - /help: 𝓟𝓜'𝓼  𝔂𝓸𝓾  𝓽𝓱𝓲𝓼  𝓶𝓮𝓼𝓼𝓪𝓰𝓮.
